@@ -1,1 +1,1 @@
-# goit-markup-hw-01
+# Praca Domowa 1 - Michał Kubit
